@@ -1,0 +1,18 @@
+{
+  "name": "@pinkchampagne/prettier-config",
+  "version": "1.0.0",
+  "author": "pinkchampagne",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinkChampagne17/web-configs.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PinkChampagne17/web-configs/issues"
+  },
+  "homepage": "https://github.com/PinkChampagne17/web-configs#readme",
+  "main": "index.js",
+  "peerDependencies": {
+    "prettier": ">= 3"
+  }
+}
